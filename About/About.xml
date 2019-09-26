@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+  <name>Gwen's Thought Patches</name>
+
+  <author>gwen blanket knight</author>
+
+    <supportedVersions>
+        <li>1.0</li>
+    </supportedVersions>
+  <description>This mod adds nullification fields to all thoughts in an effort to make my mods more compatible. Might add other fields to other aspects of the game that i intend to edit for increased compat between my mods.
+</description>
+</ModMetaData>
